@@ -6,7 +6,7 @@
 
 I build practical AI/ML applications—from NLP and retrieval-augmented assistants to predictive models and interactive tools. I enjoy taking ideas through data, model development, and usable product experiences.
 
-[Portfolio](https://dilpreet-kaur-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/dilpreet-kaur-a71413317) · [Email](mailto:dilpreetk401@gmail.com)
+[Portfolio](https://dilpreet-kaur-portfolio-app.vercel.app) · [LinkedIn](https://www.linkedin.com/in/dilpreet-kaur-a71413317) · [Email](mailto:dilpreetk401@gmail.com)
 
 </div>
 
@@ -54,4 +54,4 @@ Worked with large log datasets to build preprocessing, labeling, summarization, 
 
 ## Find me
 
-[Portfolio](https://dilpreet-kaur-portfolio.vercel.app) · [GitHub](https://github.com/Dilpreetk11) · [LinkedIn](https://www.linkedin.com/in/dilpreet-kaur-a71413317) · [Email](mailto:dilpreetk401@gmail.com)
+[Portfolio](https://dilpreet-kaur-portfolio-app.vercel.app) · [GitHub](https://github.com/Dilpreetk11) · [LinkedIn](https://www.linkedin.com/in/dilpreet-kaur-a71413317) · [Email](mailto:dilpreetk401@gmail.com)
